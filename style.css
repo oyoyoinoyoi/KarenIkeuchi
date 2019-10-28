@@ -90,37 +90,36 @@ p {
     margin-top: 170%; }
   /* line 111, /Users/user/Desktop/KarenIkeuchi/style.scss */
   #profile p {
-    margin: 4% auto;
-    margin-bottom: 10%;
+    margin: 3% auto;
     width: 60%;
     text-align: left;
     font-size: 45px; }
 
 @media screen and (max-width: 500px) {
-  /* line 121, /Users/user/Desktop/KarenIkeuchi/style.scss */
+  /* line 120, /Users/user/Desktop/KarenIkeuchi/style.scss */
   h1 {
     background-color: inherit;
     font-size: 30px; }
-  /* line 127, /Users/user/Desktop/KarenIkeuchi/style.scss */
+  /* line 126, /Users/user/Desktop/KarenIkeuchi/style.scss */
   #header h1 {
     width: 100%;
     font-size: 40px; }
-  /* line 133, /Users/user/Desktop/KarenIkeuchi/style.scss */
+  /* line 132, /Users/user/Desktop/KarenIkeuchi/style.scss */
   #work .content ul li {
     width: 30%;
     margin: 10%; }
-    /* line 137, /Users/user/Desktop/KarenIkeuchi/style.scss */
+    /* line 136, /Users/user/Desktop/KarenIkeuchi/style.scss */
     #work .content ul li p {
       line-height: 11px;
       font-size: 7px; }
-      /* line 141, /Users/user/Desktop/KarenIkeuchi/style.scss */
+      /* line 140, /Users/user/Desktop/KarenIkeuchi/style.scss */
       #work .content ul li p span {
         font-size: 5px; }
   /* line 147, /Users/user/Desktop/KarenIkeuchi/style.scss */
   #profile h1 {
     width: 28%;
     margin-top: 400%; }
-  /* line 151, /Users/user/Desktop/KarenIkeuchi/style.scss */
+  /* line 152, /Users/user/Desktop/KarenIkeuchi/style.scss */
   #profile p {
     width: 70%;
     font-size: 13px;
